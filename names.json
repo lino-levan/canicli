@@ -107,6 +107,9 @@
   "continue": [
     "continue"
   ],
+  "cookie": [
+    "cookieDB"
+  ],
   "cp": [
     "cp"
   ],

@@ -143,6 +143,10 @@
     "description": "Resume the next iteration of a loop",
     "builtIn": true
   },
+  "cookieDB": {
+    "description": "A byte sized database for everyone",
+    "repository": "https://github.com/cookiedb/CookieDB"
+  },
   "cp": {
     "description": "Copy one or more files to another location",
     "builtIn": true
