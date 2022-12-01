@@ -146,6 +146,9 @@
   "declare": [
     "declare"
   ],
+  "deno": [
+    "deno"
+  ],
   "df": [
     "df"
   ],
@@ -226,6 +229,9 @@
   ],
   "fdisk": [
     "fdisk"
+  ],
+  "ffmpeg": [
+    "ffmpeg"
   ],
   "fg": [
     "fg"
@@ -467,6 +473,9 @@
   "nc": [
     "nc"
   ],
+  "neofetch": [
+    "neofetch"
+  ],
   "netstat": [
     "netstat"
   ],
@@ -479,11 +488,17 @@
   "nl": [
     "nl"
   ],
+  "node": [
+    "nodejs"
+  ],
   "nohup": [
     "nohup"
   ],
   "notify-send": [
     "notify-send"
+  ],
+  "npm": [
+    "npm"
   ],
   "nslookup": [
     "nslookup"
@@ -514,6 +529,9 @@
   ],
   "pkill": [
     "pkill"
+  ],
+  "pnpm": [
+    "pnpm"
   ],
   "popd": [
     "popd"
@@ -801,6 +819,9 @@
   "vi": [
     "vi"
   ],
+  "vite": [
+    "vite"
+  ],
   "vmstat": [
     "vmstat"
   ],
@@ -851,6 +872,9 @@
   ],
   "yes": [
     "yes"
+  ],
+  "yt-dlp": [
+    "yt-dlp"
   ],
   "zip": [
     "zip"

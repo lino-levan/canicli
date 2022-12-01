@@ -195,6 +195,10 @@
     "description": "Declare variables and give them attributes",
     "builtIn": true
   },
+  "deno": {
+    "description": "The easiest, most secure JavaScript runtime",
+    "repository": "https://github.com/denoland/deno"
+  },
   "df": {
     "description": "Display free disk space",
     "builtIn": true
@@ -302,6 +306,10 @@
   "fdisk": {
     "description": "Partition table manipulator for Linux",
     "builtIn": true
+  },
+  "ffmpeg": {
+    "description": "FFmpeg is the leading multimedia framework",
+    "repository": "https://git.ffmpeg.org/"
   },
   "fg": {
     "description": "Send job to foreground",
@@ -627,6 +635,10 @@
     "description": "Netcat, read and write data across networks",
     "builtIn": true
   },
+  "neofetch": {
+    "description": "A command-line system information tool written in bash 3.2+",
+    "repository": "https://github.com/dylanaraps/neofetch"
+  },
   "netstat": {
     "description": "Networking connections/stats",
     "builtIn": true
@@ -643,6 +655,10 @@
     "description": "Number lines and write files",
     "builtIn": true
   },
+  "nodejs": {
+    "description": "The NodeJS javascript runtime",
+    "repository": "https://github.com/nodejs/node"
+  },
   "nohup": {
     "description": "Run a command immune to hangups",
     "builtIn": true
@@ -650,6 +666,10 @@
   "notify-send": {
     "description": "Send desktop notifications",
     "builtIn": true
+  },
+  "npm": {
+    "description": "the package manager for JavaScript",
+    "repository": "https://github.com/npm/cli"
   },
   "nslookup": {
     "description": "Query Internet name servers interactively",
@@ -690,6 +710,10 @@
   "pkill": {
     "description": "Kill processes by name",
     "builtIn": true
+  },
+  "pnpm": {
+    "description": "Fast, disk space efficient package manager",
+    "repository": "https://github.com/pnpm/pnpm"
   },
   "popd": {
     "description": "Restore the previous value of the current directory",
@@ -1071,6 +1095,10 @@
     "description": "Text Editor",
     "builtIn": true
   },
+  "vite": {
+    "description": "Next generation frontend tooling",
+    "repository": "https://github.com/vitejs/vite"
+  },
   "vmstat": {
     "description": "Report virtual memory statistics",
     "builtIn": true
@@ -1138,6 +1166,10 @@
   "yes": {
     "description": "Print a string until interrupted",
     "builtIn": true
+  },
+  "yt-dlp": {
+    "description": "A youtube-dl fork with additional features and fixes",
+    "repository": "https://github.com/yt-dlp/yt-dlp"
   },
   "zip": {
     "description": "Package and compress (archive) files",
