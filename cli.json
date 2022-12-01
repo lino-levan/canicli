@@ -1,0 +1,427 @@
+{
+  "alias": {
+    "description": "Create an alias"
+  },
+  "apropos": {
+    "description": "Search Help manual pages (man -k)"
+  },
+  "apt": {
+    "description": "Search for and install software packages"
+  },
+  "apt-get": {
+    "description": "Search for and install software packages"
+  },
+  "aptitude": {
+    "description": "Search for and install software packages"
+  },
+  "aspell": {
+    "description": "Spell Checker"
+  },
+  "awk": {
+    "description": "Find and Replace text, database sort/validate/index"
+  },
+  "base32": {
+    "description": "Base32 encode/decode data and print to standard output"
+  },
+  "base64": {
+    "description": "Base64 encode/decode data and print to standard output"
+  },
+  "basename": {
+    "description": "Strip directory and suffix from filenames"
+  },
+  "bash": {
+    "description": "GNU Bourne-Again SHell"
+  },
+  "bc": {
+    "description": "Arbitrary precision calculator language"
+  },
+  "bg": {
+    "description": "Send to background"
+  },
+  "bind": {
+    "description": "Set or display readline key and function bindings"
+  },
+  "break": {
+    "description": "Exit from a loop"
+  },
+  "builtin": {
+    "description": "Run a shell builtin"
+  },
+  "bzip2": {
+    "description": "Compress or decompress named file(s)"
+  },
+  "cal": {
+    "description": "Display a calendar"
+  },
+  "caller": {
+    "description": "Return the context of any active subroutine call"
+  },
+  "case": {
+    "description": "Conditionally perform a command"
+  },
+  "cat": {
+    "description": "Concatenate and print (display) the content of files"
+  },
+  "cd": {
+    "description": "Change Directory"
+  },
+  "cfdisk": {
+    "description": "Partition table manipulator for Linux"
+  },
+  "chattr": {
+    "description": "Change file attributes on a Linux file system"
+  },
+  "chgrp": {
+    "description": "Change group ownership"
+  },
+  "chkconfig": {
+    "description": "System services (runlevel)"
+  },
+  "chmod": {
+    "description": "Change access permissions"
+  },
+  "chown": {
+    "description": "Change file owner and group"
+  },
+  "chpasswd": {
+    "description": "Update passwords in batch mode"
+  },
+  "chroot": {
+    "description": "Run a command with a different root directory"
+  },
+  "cksum": {
+    "description": "Print CRC checksum and byte counts"
+  },
+  "clear": {
+    "description": "Clear terminal screen"
+  },
+  "cmp": {
+    "description": "Compare two files"
+  },
+  "comm": {
+    "description": "Compare two sorted files line by line"
+  },
+  "command": {
+    "description": "Run a command - ignoring shell functions"
+  },
+  "continue": {
+    "description": "Resume the next iteration of a loop"
+  },
+  "cp": {
+    "description": "Copy one or more files to another location"
+  },
+  "cpio": {
+    "description": "Copy files to and from archives"
+  },
+  "cron": {
+    "description": "Daemon to execute scheduled commands"
+  },
+  "crontab": {
+    "description": "Schedule a command to run at a later time"
+  },
+  "csplit": {
+    "description": "Split a file into context-determined pieces"
+  },
+  "curl": {
+    "description": "Transfer data from or to a server"
+  },
+  "cut": {
+    "description": "Divide a file into several parts"
+  },
+  "date": {
+    "description": "Display or change the date & time"
+  },
+  "dc": {
+    "description": "Desk Calculator"
+  },
+  "dd": {
+    "description": "Data Duplicator - convert and copy a file, write disk headers, boot records"
+  },
+  "ddrescue": {
+    "description": "Data recovery tool"
+  },
+  "declare": {
+    "description": "Declare variables and give them attributes"
+  },
+  "df": {
+    "description": "Display free disk space"
+  },
+  "diff": {
+    "description": "Display the differences between two files"
+  },
+  "diff3": {
+    "description": "Show differences among three files"
+  },
+  "dig": {
+    "description": "DNS lookup"
+  },
+  "dir": {
+    "description": "Briefly list directory contents"
+  },
+  "dircolors": {
+    "description": "Color setup for 'ls'"
+  },
+  "dirname": {
+    "description": "Convert a full pathname to just a path"
+  },
+  "dirs": {
+    "description": "Display list of remembered directories"
+  },
+  "dmesg": {
+    "description": "Print kernel & driver messages"
+  },
+  "dos2unix": {
+    "description": "Windows/MAC to UNIX text file format converter"
+  },
+  "dpkg": {
+    "description": "Package manager"
+  },
+  "du": {
+    "description": "Estimate file space usage"
+  },
+  "echo": {
+    "description": "Display message on screen"
+  },
+  "egrep": {
+    "description": "Search file(s) for lines that match an extended expression"
+  },
+  "eject": {
+    "description": "Eject removable media"
+  },
+  "enable": {
+    "description": "Enable and disable builtin shell commands"
+  },
+  "env": {
+    "description": "Environment variables"
+  },
+  "ethtool": {
+    "description": "Ethernet card settings"
+  },
+  "eval": {
+    "description": "Evaluate several commands/arguments"
+  },
+  "exec": {
+    "description": "Execute a command"
+  },
+  "exit": {
+    "description": "Exit the shell"
+  },
+  "expand": {
+    "description": "Convert tabs to spaces"
+  },
+  "export": {
+    "description": "Set an environment variable"
+  },
+  "expr": {
+    "description": "Evaluate expressions"
+  },
+  "false": {
+    "description": "Do nothing, unsuccessfully"
+  },
+  "fdformat": {
+    "description": "Low-level format a floppy disk"
+  },
+  "fdisk": {
+    "description": "Partition table manipulator for Linux"
+  },
+  "fg": {
+    "description": "Send job to foreground"
+  },
+  "fgrep": {
+    "description": "Search file(s) for lines that match a fixed string"
+  },
+  "file": {
+    "description": "Determine file type"
+  },
+  "find": {
+    "description": "Search for files that meet a desired criteria"
+  },
+  "fmt": {
+    "description": "Reformat paragraph text"
+  },
+  "fold": {
+    "description": "Wrap text to fit a specified width"
+  },
+  "for": {
+    "description": "Expand words, and execute commands"
+  },
+  "format": {
+    "description": "Format disks or tapes"
+  },
+  "free": {
+    "description": "Display memory usage"
+  },
+  "fsck": {
+    "description": "File system consistency check and repair"
+  },
+  "ftp": {
+    "description": "File Transfer Protocol"
+  },
+  "function": {
+    "description": "Define Function Macros"
+  },
+  "fuser": {
+    "description": "Identify/kill the process that is accessing a file"
+  },
+  "gawk": {
+    "description": "Find and Replace text within file(s)"
+  },
+  "getfacl": {
+    "description": "Get file access control lists"
+  },
+  "getops": {
+    "description": "Parse positional parameters"
+  },
+  "gitea": {
+    "description": "Git with a cup of tea, painless self-hosted git service",
+    "repo": "https://github.com/go-gitea/gitea"
+  },
+  "grep": {
+    "description": "Search file(s) for lines that match a given pattern"
+  },
+  "groupadd": {
+    "description": "Add a user security group"
+  },
+  "groupdel": {
+    "description": "Delete a group"
+  },
+  "groupmod": {
+    "description": "Modify a group"
+  },
+  "groups": {
+    "description": "Print group names a user is in"
+  },
+  "gzip": {
+    "description": "Compress or decompress named file(s)"
+  },
+  "hash": {
+    "description": "Remember the full pathname of a name argument"
+  },
+  "head": {
+    "description": "Output the first part of file(s)"
+  },
+  "help": {
+    "description": "Display help for a built-in command"
+  },
+  "history": {
+    "description": "Command History"
+  },
+  "hostname": {
+    "description": "Print or set system name"
+  },
+  "htop": {
+    "description": "Interactive process viewer"
+  },
+  "iconv": {
+    "description": "Convert the character set of a file"
+  },
+  "id": {
+    "description": "Print user and group id's"
+  },
+  "if": {
+    "description": "Conditionally perform a command"
+  },
+  "ifconfig": {
+    "description": "Configure a network interface"
+  },
+  "ifdown": {
+    "description": "Stop a network interface"
+  },
+  "ifup": {
+    "description": "Start a network interface up"
+  },
+  "import": {
+    "description": "Capture an X server screen and save the image to file"
+  },
+  "install": {
+    "description": "Copy files and set attributes"
+  },
+  "iostat": {
+    "description": "Report CPU and i/o statistics"
+  },
+  "ip": {
+    "description": "Routing, devices and tunnels"
+  },
+  "jobs": {
+    "description": "List active jobs"
+  },
+  "join": {
+    "description": "Join lines on a common field"
+  },
+  "kill": {
+    "description": "Kill a process by specifying its PID"
+  },
+  "killall": {
+    "description": "Kill processes by name"
+  },
+  "klist": {
+    "description": "List cached Kerberos tickets"
+  },
+  "less": {
+    "description": "Display output one screen at a time"
+  },
+  "let": {
+    "description": "Perform arithmetic on shell variables"
+  },
+  "link": {
+    "description": "Create a link to a file"
+  },
+  "ln": {
+    "description": "Create a symbolic link to a file"
+  },
+  "local": {
+    "description": "Create a function variable"
+  },
+  "locate": {
+    "description": "Find files"
+  },
+  "logname": {
+    "description": "Print current login name"
+  },
+  "logout": {
+    "description": "Exit a login shell"
+  },
+  "look": {
+    "description": "Display lines beginning with a given string"
+  },
+  "lpc": {
+    "description": "Line printer control program"
+  },
+  "lpr": {
+    "description": "Print files"
+  },
+  "lprint": {
+    "description": "Print a file"
+  },
+  "lprintd": {
+    "description": "Delete a print job"
+  },
+  "lprintq": {
+    "description": "List the print queue"
+  },
+  "lprm": {
+    "description": "Remove jobs from the print queue"
+  },
+  "ls": {
+    "description": "List information about file(s)"
+  },
+  "lsattr": {
+    "description": "List file attributes on a Linux second extended file system"
+  },
+  "lsblk": {
+    "description": "List block devices"
+  },
+  "lsof": {
+    "description": "List open files"
+  },
+  "lspci": {
+    "description": "List all PCI devices"
+  },
+  "make": {
+    "description": "Recompile a group of programs"
+  },
+  "teaxyz": {
+    "description": "the unified package manager (brew2)",
+    "repo": "https://github.com/teaxyz/cli"
+  }
+}

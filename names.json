@@ -1,0 +1,423 @@
+{
+  "alias": [
+    "alias"
+  ],
+  "apropos": [
+    "apropos"
+  ],
+  "apt": [
+    "apt"
+  ],
+  "apt-get": [
+    "apt-get"
+  ],
+  "aptitude": [
+    "aptitude"
+  ],
+  "aspell": [
+    "aspell"
+  ],
+  "awk": [
+    "awk"
+  ],
+  "base32": [
+    "base32"
+  ],
+  "base64": [
+    "base64"
+  ],
+  "basename": [
+    "basename"
+  ],
+  "bash": [
+    "bash"
+  ],
+  "bc": [
+    "bc"
+  ],
+  "bg": [
+    "bg"
+  ],
+  "bind": [
+    "bind"
+  ],
+  "break": [
+    "break"
+  ],
+  "builtin": [
+    "builtin"
+  ],
+  "bzip2": [
+    "bzip2"
+  ],
+  "cal": [
+    "cal"
+  ],
+  "caller": [
+    "caller"
+  ],
+  "case": [
+    "case"
+  ],
+  "cat": [
+    "cat"
+  ],
+  "cd": [
+    "cd"
+  ],
+  "cfdisk": [
+    "cfdisk"
+  ],
+  "chattr": [
+    "chattr"
+  ],
+  "chgrp": [
+    "chgrp"
+  ],
+  "chkconfig": [
+    "chkconfig"
+  ],
+  "chmod": [
+    "chmod"
+  ],
+  "chown": [
+    "chown"
+  ],
+  "chpasswd": [
+    "chpasswd"
+  ],
+  "chroot": [
+    "chroot"
+  ],
+  "cksum": [
+    "cksum"
+  ],
+  "clear": [
+    "clear"
+  ],
+  "cmp": [
+    "cmp"
+  ],
+  "comm": [
+    "comm"
+  ],
+  "command": [
+    "command"
+  ],
+  "continue": [
+    "continue"
+  ],
+  "cp": [
+    "cp"
+  ],
+  "cpio": [
+    "cpio"
+  ],
+  "cron": [
+    "cron"
+  ],
+  "crontab": [
+    "crontab"
+  ],
+  "csplit": [
+    "csplit"
+  ],
+  "curl": [
+    "curl"
+  ],
+  "cut": [
+    "cut"
+  ],
+  "date": [
+    "date"
+  ],
+  "dc": [
+    "dc"
+  ],
+  "dd": [
+    "dd"
+  ],
+  "ddrescue": [
+    "ddrescue"
+  ],
+  "declare": [
+    "declare"
+  ],
+  "df": [
+    "df"
+  ],
+  "diff": [
+    "diff"
+  ],
+  "diff3": [
+    "diff3"
+  ],
+  "dig": [
+    "dig"
+  ],
+  "dir": [
+    "dir"
+  ],
+  "dircolors": [
+    "dircolors"
+  ],
+  "dirname": [
+    "dirname"
+  ],
+  "dirs": [
+    "dirs"
+  ],
+  "dmesg": [
+    "dmesg"
+  ],
+  "dos2unix": [
+    "dos2unix"
+  ],
+  "dpkg": [
+    "dpkg"
+  ],
+  "du": [
+    "du"
+  ],
+  "echo": [
+    "echo"
+  ],
+  "egrep": [
+    "egrep"
+  ],
+  "eject": [
+    "eject"
+  ],
+  "enable": [
+    "enable"
+  ],
+  "env": [
+    "env"
+  ],
+  "ethtool": [
+    "ethtool"
+  ],
+  "eval": [
+    "eval"
+  ],
+  "exec": [
+    "exec"
+  ],
+  "exit": [
+    "exit"
+  ],
+  "expand": [
+    "expand"
+  ],
+  "export": [
+    "export"
+  ],
+  "expr": [
+    "expr"
+  ],
+  "false": [
+    "false"
+  ],
+  "fdformat": [
+    "fdformat"
+  ],
+  "fdisk": [
+    "fdisk"
+  ],
+  "fg": [
+    "fg"
+  ],
+  "fgrep": [
+    "fgrep"
+  ],
+  "file": [
+    "file"
+  ],
+  "find": [
+    "find"
+  ],
+  "fmt": [
+    "fmt"
+  ],
+  "fold": [
+    "fold"
+  ],
+  "for": [
+    "for"
+  ],
+  "format": [
+    "format"
+  ],
+  "free": [
+    "free"
+  ],
+  "fsck": [
+    "fsck"
+  ],
+  "ftp": [
+    "ftp"
+  ],
+  "function": [
+    "function"
+  ],
+  "fuser": [
+    "fuser"
+  ],
+  "gawk": [
+    "gawk"
+  ],
+  "getfacl": [
+    "getfacl"
+  ],
+  "getops": [
+    "getops"
+  ],
+  "grep": [
+    "grep"
+  ],
+  "groupadd": [
+    "groupadd"
+  ],
+  "groupdel": [
+    "groupdel"
+  ],
+  "groupmod": [
+    "groupmod"
+  ],
+  "groups": [
+    "groups"
+  ],
+  "gzip": [
+    "gzip"
+  ],
+  "hash": [
+    "hash"
+  ],
+  "head": [
+    "head"
+  ],
+  "help": [
+    "help"
+  ],
+  "history": [
+    "history"
+  ],
+  "hostname": [
+    "hostname"
+  ],
+  "htop": [
+    "htop"
+  ],
+  "iconv": [
+    "iconv"
+  ],
+  "id": [
+    "id"
+  ],
+  "if": [
+    "if"
+  ],
+  "ifconfig": [
+    "ifconfig"
+  ],
+  "ifdown": [
+    "ifdown"
+  ],
+  "ifup": [
+    "ifup"
+  ],
+  "import": [
+    "import"
+  ],
+  "install": [
+    "install"
+  ],
+  "iostat": [
+    "iostat"
+  ],
+  "ip": [
+    "ip"
+  ],
+  "jobs": [
+    "jobs"
+  ],
+  "join": [
+    "join"
+  ],
+  "kill": [
+    "kill"
+  ],
+  "killall": [
+    "killall"
+  ],
+  "klist": [
+    "klist"
+  ],
+  "less": [
+    "less"
+  ],
+  "let": [
+    "let"
+  ],
+  "link": [
+    "link"
+  ],
+  "ln": [
+    "ln"
+  ],
+  "local": [
+    "local"
+  ],
+  "locate": [
+    "locate"
+  ],
+  "logname": [
+    "logname"
+  ],
+  "logout": [
+    "logout"
+  ],
+  "look": [
+    "look"
+  ],
+  "lpc": [
+    "lpc"
+  ],
+  "lpr": [
+    "lpr"
+  ],
+  "lprint": [
+    "lprint"
+  ],
+  "lprintd": [
+    "lprintd"
+  ],
+  "lprintq": [
+    "lprintq"
+  ],
+  "lprm": [
+    "lprm"
+  ],
+  "ls": [
+    "ls"
+  ],
+  "lsattr": [
+    "lsattr"
+  ],
+  "lsblk": [
+    "lsblk"
+  ],
+  "lsof": [
+    "lsof"
+  ],
+  "lspci": [
+    "lspci"
+  ],
+  "make": [
+    "make"
+  ],
+  "tea": [
+    "teaxyz",
+    "gitea"
+  ]
+}

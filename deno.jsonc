@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "start": "deno run -A --watch=./www/static/,./www/routes/ ./www/dev.ts",
+    "clean": "deno run --allow-read --allow-write ./tools/clean.ts"
+  }
+}
