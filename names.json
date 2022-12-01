@@ -416,8 +416,440 @@
   "make": [
     "make"
   ],
+  "man": [
+    "man"
+  ],
+  "mapfile": [
+    "mapfile"
+  ],
+  "mkdir": [
+    "mkdir"
+  ],
+  "mkfifo": [
+    "mkfifo"
+  ],
+  "mkfile": [
+    "mkfile"
+  ],
+  "mkisofs": [
+    "mkisofs"
+  ],
+  "mknod": [
+    "mknod"
+  ],
+  "mktemp": [
+    "mktemp"
+  ],
+  "mmv": [
+    "mmv"
+  ],
+  "more": [
+    "more"
+  ],
+  "most": [
+    "most"
+  ],
+  "mount": [
+    "mount"
+  ],
+  "mtools": [
+    "mtools"
+  ],
+  "mtr": [
+    "mtr"
+  ],
+  "mv": [
+    "mv"
+  ],
+  "nc": [
+    "nc"
+  ],
+  "netstat": [
+    "netstat"
+  ],
+  "nft": [
+    "nft"
+  ],
+  "nice": [
+    "nice"
+  ],
+  "nl": [
+    "nl"
+  ],
+  "nohup": [
+    "nohup"
+  ],
+  "notify-send": [
+    "notify-send"
+  ],
+  "nslookup": [
+    "nslookup"
+  ],
+  "op": [
+    "op"
+  ],
+  "open": [
+    "open"
+  ],
+  "passwd": [
+    "passwd"
+  ],
+  "paste": [
+    "paste"
+  ],
+  "pathck": [
+    "pathck"
+  ],
+  "perf": [
+    "perf"
+  ],
+  "pgrep": [
+    "pgrep"
+  ],
+  "ping": [
+    "ping"
+  ],
+  "pkill": [
+    "pkill"
+  ],
+  "popd": [
+    "popd"
+  ],
+  "pr": [
+    "pr"
+  ],
+  "printcap": [
+    "printcap"
+  ],
+  "printenv": [
+    "printenv"
+  ],
+  "printf": [
+    "printf"
+  ],
+  "ps": [
+    "ps"
+  ],
+  "pushd": [
+    "pushd"
+  ],
+  "pv": [
+    "pv"
+  ],
+  "pwd": [
+    "pwd"
+  ],
+  "quota": [
+    "quota"
+  ],
+  "quotacheck": [
+    "quotacheck"
+  ],
+  "ram": [
+    "ram"
+  ],
+  "rar": [
+    "rar"
+  ],
+  "rcp": [
+    "rcp"
+  ],
+  "read": [
+    "read"
+  ],
+  "readarray": [
+    "readarray"
+  ],
+  "readonly": [
+    "readonly"
+  ],
+  "reboot": [
+    "reboot"
+  ],
+  "remsync": [
+    "remsync"
+  ],
+  "rename": [
+    "rename"
+  ],
+  "renice": [
+    "renice"
+  ],
+  "return": [
+    "return"
+  ],
+  "rev": [
+    "rev"
+  ],
+  "rm": [
+    "rm"
+  ],
+  "rmdir": [
+    "rmdir"
+  ],
+  "rsync": [
+    "rsync"
+  ],
+  "scp": [
+    "scp"
+  ],
+  "screen": [
+    "screen"
+  ],
+  "sdiff": [
+    "sdiff"
+  ],
+  "sed": [
+    "sed"
+  ],
+  "select": [
+    "select"
+  ],
+  "seq": [
+    "seq"
+  ],
+  "set": [
+    "set"
+  ],
+  "setfacl": [
+    "setfacl"
+  ],
+  "sftp": [
+    "sftp"
+  ],
+  "shift": [
+    "shift"
+  ],
+  "shopt": [
+    "shopt"
+  ],
+  "shuf": [
+    "shuf"
+  ],
+  "shutdown": [
+    "shutdown"
+  ],
+  "sleep": [
+    "sleep"
+  ],
+  "slocate": [
+    "slocate"
+  ],
+  "sort": [
+    "sort"
+  ],
+  "source": [
+    "source"
+  ],
+  "split": [
+    "split"
+  ],
+  "ss": [
+    "ss"
+  ],
+  "ssh": [
+    "ssh"
+  ],
+  "stat": [
+    "stat"
+  ],
+  "strace": [
+    "strace"
+  ],
+  "su": [
+    "su"
+  ],
+  "sudo": [
+    "sudo"
+  ],
+  "sum": [
+    "sum"
+  ],
+  "suspend": [
+    "suspend"
+  ],
+  "sync": [
+    "sync"
+  ],
+  "tail": [
+    "tail"
+  ],
+  "tar": [
+    "tar"
+  ],
   "tea": [
-    "teaxyz",
-    "gitea"
+    "gitea",
+    "teaxyz"
+  ],
+  "tee": [
+    "tee"
+  ],
+  "test": [
+    "test"
+  ],
+  "time": [
+    "time"
+  ],
+  "timeout": [
+    "timeout"
+  ],
+  "times": [
+    "times"
+  ],
+  "tmux": [
+    "tmux"
+  ],
+  "top": [
+    "top"
+  ],
+  "touch": [
+    "touch"
+  ],
+  "tput": [
+    "tput"
+  ],
+  "tr": [
+    "tr"
+  ],
+  "traceroute": [
+    "traceroute"
+  ],
+  "trap": [
+    "trap"
+  ],
+  "true": [
+    "true"
+  ],
+  "tsort": [
+    "tsort"
+  ],
+  "tty": [
+    "tty"
+  ],
+  "type": [
+    "type"
+  ],
+  "ulimit": [
+    "ulimit"
+  ],
+  "umask": [
+    "umask"
+  ],
+  "umount": [
+    "umount"
+  ],
+  "unalias": [
+    "unalias"
+  ],
+  "uname": [
+    "uname"
+  ],
+  "unexpand": [
+    "unexpand"
+  ],
+  "uniq": [
+    "uniq"
+  ],
+  "units": [
+    "units"
+  ],
+  "unix2dos": [
+    "unix2dos"
+  ],
+  "unrar": [
+    "unrar"
+  ],
+  "unset": [
+    "unset"
+  ],
+  "unshar": [
+    "unshar"
+  ],
+  "until": [
+    "until"
+  ],
+  "uptime": [
+    "uptime"
+  ],
+  "useradd": [
+    "useradd"
+  ],
+  "userdel": [
+    "userdel"
+  ],
+  "usermod": [
+    "usermod"
+  ],
+  "users": [
+    "users"
+  ],
+  "uudecode": [
+    "uudecode"
+  ],
+  "uuencode": [
+    "uuencode"
+  ],
+  "v": [
+    "v"
+  ],
+  "vdir": [
+    "vdir"
+  ],
+  "vi": [
+    "vi"
+  ],
+  "vmstat": [
+    "vmstat"
+  ],
+  "w": [
+    "w"
+  ],
+  "wait": [
+    "wait"
+  ],
+  "watch": [
+    "watch"
+  ],
+  "wc": [
+    "wc"
+  ],
+  "wget": [
+    "wget"
+  ],
+  "whereis": [
+    "whereis"
+  ],
+  "which": [
+    "which"
+  ],
+  "while": [
+    "while"
+  ],
+  "who": [
+    "who"
+  ],
+  "whoami": [
+    "whoami"
+  ],
+  "write": [
+    "write"
+  ],
+  "xargs": [
+    "xargs"
+  ],
+  "xdg-open": [
+    "xdg-open"
+  ],
+  "xxd": [
+    "xxd"
+  ],
+  "xz": [
+    "xz"
+  ],
+  "yes": [
+    "yes"
+  ],
+  "zip": [
+    "zip"
   ]
 }

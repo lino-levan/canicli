@@ -1,427 +1,1142 @@
 {
   "alias": {
-    "description": "Create an alias"
+    "description": "Create an alias",
+    "builtIn": true
   },
   "apropos": {
-    "description": "Search Help manual pages (man -k)"
+    "description": "Search Help manual pages (man -k)",
+    "builtIn": true
   },
   "apt": {
-    "description": "Search for and install software packages"
+    "description": "Search for and install software packages",
+    "builtIn": true
   },
   "apt-get": {
-    "description": "Search for and install software packages"
+    "description": "Search for and install software packages",
+    "builtIn": true
   },
   "aptitude": {
-    "description": "Search for and install software packages"
+    "description": "Search for and install software packages",
+    "builtIn": true
   },
   "aspell": {
-    "description": "Spell Checker"
+    "description": "Spell Checker",
+    "builtIn": true
   },
   "awk": {
-    "description": "Find and Replace text, database sort/validate/index"
+    "description": "Find and Replace text, database sort/validate/index",
+    "builtIn": true
   },
   "base32": {
-    "description": "Base32 encode/decode data and print to standard output"
+    "description": "Base32 encode/decode data and print to standard output",
+    "builtIn": true
   },
   "base64": {
-    "description": "Base64 encode/decode data and print to standard output"
+    "description": "Base64 encode/decode data and print to standard output",
+    "builtIn": true
   },
   "basename": {
-    "description": "Strip directory and suffix from filenames"
+    "description": "Strip directory and suffix from filenames",
+    "builtIn": true
   },
   "bash": {
-    "description": "GNU Bourne-Again SHell"
+    "description": "GNU Bourne-Again SHell",
+    "builtIn": true
   },
   "bc": {
-    "description": "Arbitrary precision calculator language"
+    "description": "Arbitrary precision calculator language",
+    "builtIn": true
   },
   "bg": {
-    "description": "Send to background"
+    "description": "Send to background",
+    "builtIn": true
   },
   "bind": {
-    "description": "Set or display readline key and function bindings"
+    "description": "Set or display readline key and function bindings",
+    "builtIn": true
   },
   "break": {
-    "description": "Exit from a loop"
+    "description": "Exit from a loop",
+    "builtIn": true
   },
   "builtin": {
-    "description": "Run a shell builtin"
+    "description": "Run a shell builtin",
+    "builtIn": true
   },
   "bzip2": {
-    "description": "Compress or decompress named file(s)"
+    "description": "Compress or decompress named file(s)",
+    "builtIn": true
   },
   "cal": {
-    "description": "Display a calendar"
+    "description": "Display a calendar",
+    "builtIn": true
   },
   "caller": {
-    "description": "Return the context of any active subroutine call"
+    "description": "Return the context of any active subroutine call",
+    "builtIn": true
   },
   "case": {
-    "description": "Conditionally perform a command"
+    "description": "Conditionally perform a command",
+    "builtIn": true
   },
   "cat": {
-    "description": "Concatenate and print (display) the content of files"
+    "description": "Concatenate and print (display) the content of files",
+    "builtIn": true
   },
   "cd": {
-    "description": "Change Directory"
+    "description": "Change Directory",
+    "builtIn": true
   },
   "cfdisk": {
-    "description": "Partition table manipulator for Linux"
+    "description": "Partition table manipulator for Linux",
+    "builtIn": true
   },
   "chattr": {
-    "description": "Change file attributes on a Linux file system"
+    "description": "Change file attributes on a Linux file system",
+    "builtIn": true
   },
   "chgrp": {
-    "description": "Change group ownership"
+    "description": "Change group ownership",
+    "builtIn": true
   },
   "chkconfig": {
-    "description": "System services (runlevel)"
+    "description": "System services (runlevel)",
+    "builtIn": true
   },
   "chmod": {
-    "description": "Change access permissions"
+    "description": "Change access permissions",
+    "builtIn": true
   },
   "chown": {
-    "description": "Change file owner and group"
+    "description": "Change file owner and group",
+    "builtIn": true
   },
   "chpasswd": {
-    "description": "Update passwords in batch mode"
+    "description": "Update passwords in batch mode",
+    "builtIn": true
   },
   "chroot": {
-    "description": "Run a command with a different root directory"
+    "description": "Run a command with a different root directory",
+    "builtIn": true
   },
   "cksum": {
-    "description": "Print CRC checksum and byte counts"
+    "description": "Print CRC checksum and byte counts",
+    "builtIn": true
   },
   "clear": {
-    "description": "Clear terminal screen"
+    "description": "Clear terminal screen",
+    "builtIn": true
   },
   "cmp": {
-    "description": "Compare two files"
+    "description": "Compare two files",
+    "builtIn": true
   },
   "comm": {
-    "description": "Compare two sorted files line by line"
+    "description": "Compare two sorted files line by line",
+    "builtIn": true
   },
   "command": {
-    "description": "Run a command - ignoring shell functions"
+    "description": "Run a command - ignoring shell functions",
+    "builtIn": true
   },
   "continue": {
-    "description": "Resume the next iteration of a loop"
+    "description": "Resume the next iteration of a loop",
+    "builtIn": true
   },
   "cp": {
-    "description": "Copy one or more files to another location"
+    "description": "Copy one or more files to another location",
+    "builtIn": true
   },
   "cpio": {
-    "description": "Copy files to and from archives"
+    "description": "Copy files to and from archives",
+    "builtIn": true
   },
   "cron": {
-    "description": "Daemon to execute scheduled commands"
+    "description": "Daemon to execute scheduled commands",
+    "builtIn": true
   },
   "crontab": {
-    "description": "Schedule a command to run at a later time"
+    "description": "Schedule a command to run at a later time",
+    "builtIn": true
   },
   "csplit": {
-    "description": "Split a file into context-determined pieces"
+    "description": "Split a file into context-determined pieces",
+    "builtIn": true
   },
   "curl": {
-    "description": "Transfer data from or to a server"
+    "description": "Transfer data from or to a server",
+    "builtIn": true
   },
   "cut": {
-    "description": "Divide a file into several parts"
+    "description": "Divide a file into several parts",
+    "builtIn": true
   },
   "date": {
-    "description": "Display or change the date & time"
+    "description": "Display or change the date & time",
+    "builtIn": true
   },
   "dc": {
-    "description": "Desk Calculator"
+    "description": "Desk Calculator",
+    "builtIn": true
   },
   "dd": {
-    "description": "Data Duplicator - convert and copy a file, write disk headers, boot records"
+    "description": "Data Duplicator - convert and copy a file, write disk headers, boot records",
+    "builtIn": true
   },
   "ddrescue": {
-    "description": "Data recovery tool"
+    "description": "Data recovery tool",
+    "builtIn": true
   },
   "declare": {
-    "description": "Declare variables and give them attributes"
+    "description": "Declare variables and give them attributes",
+    "builtIn": true
   },
   "df": {
-    "description": "Display free disk space"
+    "description": "Display free disk space",
+    "builtIn": true
   },
   "diff": {
-    "description": "Display the differences between two files"
+    "description": "Display the differences between two files",
+    "builtIn": true
   },
   "diff3": {
-    "description": "Show differences among three files"
+    "description": "Show differences among three files",
+    "builtIn": true
   },
   "dig": {
-    "description": "DNS lookup"
+    "description": "DNS lookup",
+    "builtIn": true
   },
   "dir": {
-    "description": "Briefly list directory contents"
+    "description": "Briefly list directory contents",
+    "builtIn": true
   },
   "dircolors": {
-    "description": "Color setup for 'ls'"
+    "description": "Color setup for 'ls'",
+    "builtIn": true
   },
   "dirname": {
-    "description": "Convert a full pathname to just a path"
+    "description": "Convert a full pathname to just a path",
+    "builtIn": true
   },
   "dirs": {
-    "description": "Display list of remembered directories"
+    "description": "Display list of remembered directories",
+    "builtIn": true
   },
   "dmesg": {
-    "description": "Print kernel & driver messages"
+    "description": "Print kernel & driver messages",
+    "builtIn": true
   },
   "dos2unix": {
-    "description": "Windows/MAC to UNIX text file format converter"
+    "description": "Windows/MAC to UNIX text file format converter",
+    "builtIn": true
   },
   "dpkg": {
-    "description": "Package manager"
+    "description": "Package manager",
+    "builtIn": true
   },
   "du": {
-    "description": "Estimate file space usage"
+    "description": "Estimate file space usage",
+    "builtIn": true
   },
   "echo": {
-    "description": "Display message on screen"
+    "description": "Display message on screen",
+    "builtIn": true
   },
   "egrep": {
-    "description": "Search file(s) for lines that match an extended expression"
+    "description": "Search file(s) for lines that match an extended expression",
+    "builtIn": true
   },
   "eject": {
-    "description": "Eject removable media"
+    "description": "Eject removable media",
+    "builtIn": true
   },
   "enable": {
-    "description": "Enable and disable builtin shell commands"
+    "description": "Enable and disable builtin shell commands",
+    "builtIn": true
   },
   "env": {
-    "description": "Environment variables"
+    "description": "Environment variables",
+    "builtIn": true
   },
   "ethtool": {
-    "description": "Ethernet card settings"
+    "description": "Ethernet card settings",
+    "builtIn": true
   },
   "eval": {
-    "description": "Evaluate several commands/arguments"
+    "description": "Evaluate several commands/arguments",
+    "builtIn": true
   },
   "exec": {
-    "description": "Execute a command"
+    "description": "Execute a command",
+    "builtIn": true
   },
   "exit": {
-    "description": "Exit the shell"
+    "description": "Exit the shell",
+    "builtIn": true
   },
   "expand": {
-    "description": "Convert tabs to spaces"
+    "description": "Convert tabs to spaces",
+    "builtIn": true
   },
   "export": {
-    "description": "Set an environment variable"
+    "description": "Set an environment variable",
+    "builtIn": true
   },
   "expr": {
-    "description": "Evaluate expressions"
+    "description": "Evaluate expressions",
+    "builtIn": true
   },
   "false": {
-    "description": "Do nothing, unsuccessfully"
+    "description": "Do nothing, unsuccessfully",
+    "builtIn": true
   },
   "fdformat": {
-    "description": "Low-level format a floppy disk"
+    "description": "Low-level format a floppy disk",
+    "builtIn": true
   },
   "fdisk": {
-    "description": "Partition table manipulator for Linux"
+    "description": "Partition table manipulator for Linux",
+    "builtIn": true
   },
   "fg": {
-    "description": "Send job to foreground"
+    "description": "Send job to foreground",
+    "builtIn": true
   },
   "fgrep": {
-    "description": "Search file(s) for lines that match a fixed string"
+    "description": "Search file(s) for lines that match a fixed string",
+    "builtIn": true
   },
   "file": {
-    "description": "Determine file type"
+    "description": "Determine file type",
+    "builtIn": true
   },
   "find": {
-    "description": "Search for files that meet a desired criteria"
+    "description": "Search for files that meet a desired criteria",
+    "builtIn": true
   },
   "fmt": {
-    "description": "Reformat paragraph text"
+    "description": "Reformat paragraph text",
+    "builtIn": true
   },
   "fold": {
-    "description": "Wrap text to fit a specified width"
+    "description": "Wrap text to fit a specified width",
+    "builtIn": true
   },
   "for": {
-    "description": "Expand words, and execute commands"
+    "description": "Expand words, and execute commands",
+    "builtIn": true
   },
   "format": {
-    "description": "Format disks or tapes"
+    "description": "Format disks or tapes",
+    "builtIn": true
   },
   "free": {
-    "description": "Display memory usage"
+    "description": "Display memory usage",
+    "builtIn": true
   },
   "fsck": {
-    "description": "File system consistency check and repair"
+    "description": "File system consistency check and repair",
+    "builtIn": true
   },
   "ftp": {
-    "description": "File Transfer Protocol"
+    "description": "File Transfer Protocol",
+    "builtIn": true
   },
   "function": {
-    "description": "Define Function Macros"
+    "description": "Define Function Macros",
+    "builtIn": true
   },
   "fuser": {
-    "description": "Identify/kill the process that is accessing a file"
+    "description": "Identify/kill the process that is accessing a file",
+    "builtIn": true
   },
   "gawk": {
-    "description": "Find and Replace text within file(s)"
+    "description": "Find and Replace text within file(s)",
+    "builtIn": true
   },
   "getfacl": {
-    "description": "Get file access control lists"
+    "description": "Get file access control lists",
+    "builtIn": true
   },
   "getops": {
-    "description": "Parse positional parameters"
+    "description": "Parse positional parameters",
+    "builtIn": true
   },
   "gitea": {
     "description": "Git with a cup of tea, painless self-hosted git service",
-    "repo": "https://github.com/go-gitea/gitea"
+    "repository": "https://github.com/go-gitea/gitea"
   },
   "grep": {
-    "description": "Search file(s) for lines that match a given pattern"
+    "description": "Search file(s) for lines that match a given pattern",
+    "builtIn": true
   },
   "groupadd": {
-    "description": "Add a user security group"
+    "description": "Add a user security group",
+    "builtIn": true
   },
   "groupdel": {
-    "description": "Delete a group"
+    "description": "Delete a group",
+    "builtIn": true
   },
   "groupmod": {
-    "description": "Modify a group"
+    "description": "Modify a group",
+    "builtIn": true
   },
   "groups": {
-    "description": "Print group names a user is in"
+    "description": "Print group names a user is in",
+    "builtIn": true
   },
   "gzip": {
-    "description": "Compress or decompress named file(s)"
+    "description": "Compress or decompress named file(s)",
+    "builtIn": true
   },
   "hash": {
-    "description": "Remember the full pathname of a name argument"
+    "description": "Remember the full pathname of a name argument",
+    "builtIn": true
   },
   "head": {
-    "description": "Output the first part of file(s)"
+    "description": "Output the first part of file(s)",
+    "builtIn": true
   },
   "help": {
-    "description": "Display help for a built-in command"
+    "description": "Display help for a built-in command",
+    "builtIn": true
   },
   "history": {
-    "description": "Command History"
+    "description": "Command History",
+    "builtIn": true
   },
   "hostname": {
-    "description": "Print or set system name"
+    "description": "Print or set system name",
+    "builtIn": true
   },
   "htop": {
-    "description": "Interactive process viewer"
+    "description": "Interactive process viewer",
+    "builtIn": true
   },
   "iconv": {
-    "description": "Convert the character set of a file"
+    "description": "Convert the character set of a file",
+    "builtIn": true
   },
   "id": {
-    "description": "Print user and group id's"
+    "description": "Print user and group id's",
+    "builtIn": true
   },
   "if": {
-    "description": "Conditionally perform a command"
+    "description": "Conditionally perform a command",
+    "builtIn": true
   },
   "ifconfig": {
-    "description": "Configure a network interface"
+    "description": "Configure a network interface",
+    "builtIn": true
   },
   "ifdown": {
-    "description": "Stop a network interface"
+    "description": "Stop a network interface",
+    "builtIn": true
   },
   "ifup": {
-    "description": "Start a network interface up"
+    "description": "Start a network interface up",
+    "builtIn": true
   },
   "import": {
-    "description": "Capture an X server screen and save the image to file"
+    "description": "Capture an X server screen and save the image to file",
+    "builtIn": true
   },
   "install": {
-    "description": "Copy files and set attributes"
+    "description": "Copy files and set attributes",
+    "builtIn": true
   },
   "iostat": {
-    "description": "Report CPU and i/o statistics"
+    "description": "Report CPU and i/o statistics",
+    "builtIn": true
   },
   "ip": {
-    "description": "Routing, devices and tunnels"
+    "description": "Routing, devices and tunnels",
+    "builtIn": true
   },
   "jobs": {
-    "description": "List active jobs"
+    "description": "List active jobs",
+    "builtIn": true
   },
   "join": {
-    "description": "Join lines on a common field"
+    "description": "Join lines on a common field",
+    "builtIn": true
   },
   "kill": {
-    "description": "Kill a process by specifying its PID"
+    "description": "Kill a process by specifying its PID",
+    "builtIn": true
   },
   "killall": {
-    "description": "Kill processes by name"
+    "description": "Kill processes by name",
+    "builtIn": true
   },
   "klist": {
-    "description": "List cached Kerberos tickets"
+    "description": "List cached Kerberos tickets",
+    "builtIn": true
   },
   "less": {
-    "description": "Display output one screen at a time"
+    "description": "Display output one screen at a time",
+    "builtIn": true
   },
   "let": {
-    "description": "Perform arithmetic on shell variables"
+    "description": "Perform arithmetic on shell variables",
+    "builtIn": true
   },
   "link": {
-    "description": "Create a link to a file"
+    "description": "Create a link to a file",
+    "builtIn": true
   },
   "ln": {
-    "description": "Create a symbolic link to a file"
+    "description": "Create a symbolic link to a file",
+    "builtIn": true
   },
   "local": {
-    "description": "Create a function variable"
+    "description": "Create a function variable",
+    "builtIn": true
   },
   "locate": {
-    "description": "Find files"
+    "description": "Find files",
+    "builtIn": true
   },
   "logname": {
-    "description": "Print current login name"
+    "description": "Print current login name",
+    "builtIn": true
   },
   "logout": {
-    "description": "Exit a login shell"
+    "description": "Exit a login shell",
+    "builtIn": true
   },
   "look": {
-    "description": "Display lines beginning with a given string"
+    "description": "Display lines beginning with a given string",
+    "builtIn": true
   },
   "lpc": {
-    "description": "Line printer control program"
+    "description": "Line printer control program",
+    "builtIn": true
   },
   "lpr": {
-    "description": "Print files"
+    "description": "Print files",
+    "builtIn": true
   },
   "lprint": {
-    "description": "Print a file"
+    "description": "Print a file",
+    "builtIn": true
   },
   "lprintd": {
-    "description": "Delete a print job"
+    "description": "Delete a print job",
+    "builtIn": true
   },
   "lprintq": {
-    "description": "List the print queue"
+    "description": "List the print queue",
+    "builtIn": true
   },
   "lprm": {
-    "description": "Remove jobs from the print queue"
+    "description": "Remove jobs from the print queue",
+    "builtIn": true
   },
   "ls": {
-    "description": "List information about file(s)"
+    "description": "List information about file(s)",
+    "builtIn": true
   },
   "lsattr": {
-    "description": "List file attributes on a Linux second extended file system"
+    "description": "List file attributes on a Linux second extended file system",
+    "builtIn": true
   },
   "lsblk": {
-    "description": "List block devices"
+    "description": "List block devices",
+    "builtIn": true
   },
   "lsof": {
-    "description": "List open files"
+    "description": "List open files",
+    "builtIn": true
   },
   "lspci": {
-    "description": "List all PCI devices"
+    "description": "List all PCI devices",
+    "builtIn": true
   },
   "make": {
-    "description": "Recompile a group of programs"
+    "description": "Recompile a group of programs",
+    "builtIn": true
+  },
+  "man": {
+    "description": "Help manual",
+    "builtIn": true
+  },
+  "mapfile": {
+    "description": "Read lines from standard input into an indexed array variable",
+    "builtIn": true
+  },
+  "mkdir": {
+    "description": "Create new folder(s)",
+    "builtIn": true
+  },
+  "mkfifo": {
+    "description": "Make FIFOs (named pipes)",
+    "builtIn": true
+  },
+  "mkfile": {
+    "description": "Make a file",
+    "builtIn": true
+  },
+  "mkisofs": {
+    "description": "Create a hybrid ISO9660/JOLIET/HFS filesystem",
+    "builtIn": true
+  },
+  "mknod": {
+    "description": "Make block or character special files",
+    "builtIn": true
+  },
+  "mktemp": {
+    "description": "Make a temporary file",
+    "builtIn": true
+  },
+  "mmv": {
+    "description": "Mass Move and rename (files)",
+    "builtIn": true
+  },
+  "more": {
+    "description": "Display output one screen at a time",
+    "builtIn": true
+  },
+  "most": {
+    "description": "Browse or page through a text file",
+    "builtIn": true
+  },
+  "mount": {
+    "description": "Mount a file system",
+    "builtIn": true
+  },
+  "mtools": {
+    "description": "Manipulate MS-DOS files",
+    "builtIn": true
+  },
+  "mtr": {
+    "description": "Network diagnostics (traceroute/ping)",
+    "builtIn": true
+  },
+  "mv": {
+    "description": "Move or rename files or directories",
+    "builtIn": true
+  },
+  "nc": {
+    "description": "Netcat, read and write data across networks",
+    "builtIn": true
+  },
+  "netstat": {
+    "description": "Networking connections/stats",
+    "builtIn": true
+  },
+  "nft": {
+    "description": "nftables for packet filtering and classification",
+    "builtIn": true
+  },
+  "nice": {
+    "description": "Set the priority of a command or job",
+    "builtIn": true
+  },
+  "nl": {
+    "description": "Number lines and write files",
+    "builtIn": true
+  },
+  "nohup": {
+    "description": "Run a command immune to hangups",
+    "builtIn": true
+  },
+  "notify-send": {
+    "description": "Send desktop notifications",
+    "builtIn": true
+  },
+  "nslookup": {
+    "description": "Query Internet name servers interactively",
+    "builtIn": true
+  },
+  "op": {
+    "description": "Operator access",
+    "builtIn": true
+  },
+  "open": {
+    "description": "Open a file in its default application",
+    "builtIn": true
+  },
+  "passwd": {
+    "description": "Modify a user password",
+    "builtIn": true
+  },
+  "paste": {
+    "description": "Merge lines of files",
+    "builtIn": true
+  },
+  "pathck": {
+    "description": "Check file name portability",
+    "builtIn": true
+  },
+  "perf": {
+    "description": "Performance analysis tools for Linux",
+    "builtIn": true
+  },
+  "pgrep": {
+    "description": "List processes by name",
+    "builtIn": true
+  },
+  "ping": {
+    "description": "Test a network connection",
+    "builtIn": true
+  },
+  "pkill": {
+    "description": "Kill processes by name",
+    "builtIn": true
+  },
+  "popd": {
+    "description": "Restore the previous value of the current directory",
+    "builtIn": true
+  },
+  "pr": {
+    "description": "Prepare files for printing",
+    "builtIn": true
+  },
+  "printcap": {
+    "description": "Printer capability database",
+    "builtIn": true
+  },
+  "printenv": {
+    "description": "Print environment variables",
+    "builtIn": true
+  },
+  "printf": {
+    "description": "Format and print data",
+    "builtIn": true
+  },
+  "ps": {
+    "description": "Process status",
+    "builtIn": true
+  },
+  "pushd": {
+    "description": "Save and then change the current directory",
+    "builtIn": true
+  },
+  "pv": {
+    "description": "Monitor the progress of data through a pipe",
+    "builtIn": true
+  },
+  "pwd": {
+    "description": "Print Working Directory",
+    "builtIn": true
+  },
+  "quota": {
+    "description": "Display disk usage and limits",
+    "builtIn": true
+  },
+  "quotacheck": {
+    "description": "Scan a file system for disk usage",
+    "builtIn": true
+  },
+  "ram": {
+    "description": "ram disk device",
+    "builtIn": true
+  },
+  "rar": {
+    "description": "Archive files with compression",
+    "builtIn": true
+  },
+  "rcp": {
+    "description": "Copy files between two machines",
+    "builtIn": true
+  },
+  "read": {
+    "description": "Read a line from standard input",
+    "builtIn": true
+  },
+  "readarray": {
+    "description": "Read from stdin into an array variable",
+    "builtIn": true
+  },
+  "readonly": {
+    "description": "Mark variables/functions as readonly",
+    "builtIn": true
+  },
+  "reboot": {
+    "description": "Reboot the system",
+    "builtIn": true
+  },
+  "remsync": {
+    "description": "Synchronize remote files via email",
+    "builtIn": true
+  },
+  "rename": {
+    "description": "Rename files",
+    "builtIn": true
+  },
+  "renice": {
+    "description": "Alter priority of running processes",
+    "builtIn": true
+  },
+  "return": {
+    "description": "Exit a shell function",
+    "builtIn": true
+  },
+  "rev": {
+    "description": "Reverse lines of a file",
+    "builtIn": true
+  },
+  "rm": {
+    "description": "Remove files",
+    "builtIn": true
+  },
+  "rmdir": {
+    "description": "Remove folder(s)",
+    "builtIn": true
+  },
+  "rsync": {
+    "description": "Remote file copy (Synchronize file trees)",
+    "builtIn": true
+  },
+  "scp": {
+    "description": "Secure copy (remote file copy)",
+    "builtIn": true
+  },
+  "screen": {
+    "description": "Multiplex terminal, run remote shells via ssh",
+    "builtIn": true
+  },
+  "sdiff": {
+    "description": "Merge two files interactively",
+    "builtIn": true
+  },
+  "sed": {
+    "description": "Stream Editor",
+    "builtIn": true
+  },
+  "select": {
+    "description": "Accept user choices via keyboard input",
+    "builtIn": true
+  },
+  "seq": {
+    "description": "Print numeric sequences",
+    "builtIn": true
+  },
+  "set": {
+    "description": "Manipulate shell variables and functions",
+    "builtIn": true
+  },
+  "setfacl": {
+    "description": "Set file access control lists",
+    "builtIn": true
+  },
+  "sftp": {
+    "description": "Secure File Transfer Program",
+    "builtIn": true
+  },
+  "shift": {
+    "description": "Shift positional parameters",
+    "builtIn": true
+  },
+  "shopt": {
+    "description": "Shell Options",
+    "builtIn": true
+  },
+  "shuf": {
+    "description": "Generate random permutations",
+    "builtIn": true
+  },
+  "shutdown": {
+    "description": "Shutdown or restart linux",
+    "builtIn": true
+  },
+  "sleep": {
+    "description": "Delay for a specified time",
+    "builtIn": true
+  },
+  "slocate": {
+    "description": "Find files",
+    "builtIn": true
+  },
+  "sort": {
+    "description": "Sort text files",
+    "builtIn": true
+  },
+  "source": {
+    "description": "Run commands from a file '.'",
+    "builtIn": true
+  },
+  "split": {
+    "description": "Split a file into fixed-size pieces",
+    "builtIn": true
+  },
+  "ss": {
+    "description": "Socket Statistics",
+    "builtIn": true
+  },
+  "ssh": {
+    "description": "Secure Shell client (remote login program)",
+    "builtIn": true
+  },
+  "stat": {
+    "description": "Display file or file system status",
+    "builtIn": true
+  },
+  "strace": {
+    "description": "Trace system calls and signals",
+    "builtIn": true
+  },
+  "su": {
+    "description": "Substitute user identity",
+    "builtIn": true
+  },
+  "sudo": {
+    "description": "Execute a command as another user",
+    "builtIn": true
+  },
+  "sum": {
+    "description": "Print a checksum for a file",
+    "builtIn": true
+  },
+  "suspend": {
+    "description": "Suspend execution of this shell",
+    "builtIn": true
+  },
+  "sync": {
+    "description": "Synchronize data on disk with memory",
+    "builtIn": true
+  },
+  "tail": {
+    "description": "Output the last part of a file",
+    "builtIn": true
+  },
+  "tar": {
+    "description": "Store, list or extract files in an archive",
+    "builtIn": true
   },
   "teaxyz": {
     "description": "the unified package manager (brew2)",
-    "repo": "https://github.com/teaxyz/cli"
+    "repository": "https://github.com/teaxyz/cli"
+  },
+  "tee": {
+    "description": "Redirect output to multiple files",
+    "builtIn": true
+  },
+  "test": {
+    "description": "Evaluate a conditional expression",
+    "builtIn": true
+  },
+  "time": {
+    "description": "Measure Program running time",
+    "builtIn": true
+  },
+  "timeout": {
+    "description": "Run a command with a time limit",
+    "builtIn": true
+  },
+  "times": {
+    "description": "User and system times",
+    "builtIn": true
+  },
+  "tmux": {
+    "description": "Terminal multiplexer",
+    "builtIn": true
+  },
+  "top": {
+    "description": "List processes running on the system",
+    "builtIn": true
+  },
+  "touch": {
+    "description": "Change file timestamps",
+    "builtIn": true
+  },
+  "tput": {
+    "description": "Set terminal-dependent capabilities, color, position",
+    "builtIn": true
+  },
+  "tr": {
+    "description": "Translate, squeeze, and/or delete characters",
+    "builtIn": true
+  },
+  "traceroute": {
+    "description": "Trace Route to Host",
+    "builtIn": true
+  },
+  "trap": {
+    "description": "Execute a command when the shell receives a signal",
+    "builtIn": true
+  },
+  "true": {
+    "description": "Do nothing, successfully",
+    "builtIn": true
+  },
+  "tsort": {
+    "description": "Topological sort",
+    "builtIn": true
+  },
+  "tty": {
+    "description": "Print filename of terminal on stdin",
+    "builtIn": true
+  },
+  "type": {
+    "description": "Describe a command",
+    "builtIn": true
+  },
+  "ulimit": {
+    "description": "Limit user resources",
+    "builtIn": true
+  },
+  "umask": {
+    "description": "Users file creation mask",
+    "builtIn": true
+  },
+  "umount": {
+    "description": "Unmount a device",
+    "builtIn": true
+  },
+  "unalias": {
+    "description": "Remove an alias",
+    "builtIn": true
+  },
+  "uname": {
+    "description": "Print system information",
+    "builtIn": true
+  },
+  "unexpand": {
+    "description": "Convert spaces to tabs",
+    "builtIn": true
+  },
+  "uniq": {
+    "description": "Uniquify files",
+    "builtIn": true
+  },
+  "units": {
+    "description": "Convert units from one scale to another",
+    "builtIn": true
+  },
+  "unix2dos": {
+    "description": "UNIX to Windows or MAC text file format converter",
+    "builtIn": true
+  },
+  "unrar": {
+    "description": "Extract files from a rar archive",
+    "builtIn": true
+  },
+  "unset": {
+    "description": "Remove variable or function names",
+    "builtIn": true
+  },
+  "unshar": {
+    "description": "Unpack shell archive scripts",
+    "builtIn": true
+  },
+  "until": {
+    "description": "Execute commands (until error)",
+    "builtIn": true
+  },
+  "uptime": {
+    "description": "Show uptime",
+    "builtIn": true
+  },
+  "useradd": {
+    "description": "Create new user account",
+    "builtIn": true
+  },
+  "userdel": {
+    "description": "Delete a user account",
+    "builtIn": true
+  },
+  "usermod": {
+    "description": "Modify user account",
+    "builtIn": true
+  },
+  "users": {
+    "description": "List users currently logged in",
+    "builtIn": true
+  },
+  "uudecode": {
+    "description": "Decode a file created by uuencode",
+    "builtIn": true
+  },
+  "uuencode": {
+    "description": "Encode a binary file",
+    "builtIn": true
+  },
+  "v": {
+    "description": "Verbosely list directory contents",
+    "builtIn": true
+  },
+  "vdir": {
+    "description": "Verbosely list directory contents",
+    "builtIn": true
+  },
+  "vi": {
+    "description": "Text Editor",
+    "builtIn": true
+  },
+  "vmstat": {
+    "description": "Report virtual memory statistics",
+    "builtIn": true
+  },
+  "w": {
+    "description": "Show who is logged on and what they are doing",
+    "builtIn": true
+  },
+  "wait": {
+    "description": "Wait for a process to complete",
+    "builtIn": true
+  },
+  "watch": {
+    "description": "Execute/display a program periodically",
+    "builtIn": true
+  },
+  "wc": {
+    "description": "Print byte, word, and line counts",
+    "builtIn": true
+  },
+  "wget": {
+    "description": "Retrieve web pages or files via HTTP, HTTPS or FTP",
+    "builtIn": true
+  },
+  "whereis": {
+    "description": "Search the user's $path, man pages and source files for a program",
+    "builtIn": true
+  },
+  "which": {
+    "description": "Search the user's $path for a program file",
+    "builtIn": true
+  },
+  "while": {
+    "description": "Execute commands",
+    "builtIn": true
+  },
+  "who": {
+    "description": "Print all usernames currently logged in",
+    "builtIn": true
+  },
+  "whoami": {
+    "description": "Print the current user id and name",
+    "builtIn": true
+  },
+  "write": {
+    "description": "Send a message to another user",
+    "builtIn": true
+  },
+  "xargs": {
+    "description": "Execute utility, passing constructed argument list(s)",
+    "builtIn": true
+  },
+  "xdg-open": {
+    "description": "Open a file or URL in the user's preferred application",
+    "builtIn": true
+  },
+  "xxd": {
+    "description": "Make a hexdump or do the reverse",
+    "builtIn": true
+  },
+  "xz": {
+    "description": "Compress or decompress .xz and .lzma files",
+    "builtIn": true
+  },
+  "yes": {
+    "description": "Print a string until interrupted",
+    "builtIn": true
+  },
+  "zip": {
+    "description": "Package and compress (archive) files",
+    "builtIn": true
   }
 }
