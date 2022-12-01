@@ -11,8 +11,9 @@ something obvious.
 Is there a CLI tool that we're missing? Let's add it.
 
 1. Fork the repository
-2. Add the cli tool's alias to `static/names.json`. Ex: If our tool can be run using
-   `cookie start`, we would add `cookie: [nameOfTool]` to `static/names.json`
-3. Add the cli tool's metadata to `static/cli.json`. Use other tools as reference to
-   what fields to put.
-4. Clean the json files by running `deno task clean`. 
+2. Add the cli tool's alias to `static/names.json`. Ex: If our tool can be run
+   using `cookie start`, we would add `cookie: [nameOfTool]` to
+   `static/names.json`
+3. Add the cli tool's metadata to `static/cli.json`. Use other tools as
+   reference to what fields to put.
+4. Clean the json files by running `deno task clean`.
