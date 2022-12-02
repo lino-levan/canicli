@@ -13,8 +13,8 @@ something obvious.
 Is there a CLI tool that we're missing? Let's add it.
 
 1. Fork the repository
-2. Add the cli tool's metadata to `static/cli.json`.
-3. Add the cli tool's alias to `static/names.json`.
+2. Add the cli tool's metadata to `cli.json`.
+3. Add the cli tool's alias to `names.json`.
 4. Clean the json files by running `deno task clean`.
 5. Format the repository by running `deno fmt`.
 
