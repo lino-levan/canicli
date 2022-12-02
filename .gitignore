@@ -1,0 +1,5 @@
+.vscode
+
+# Before you create an issue, I know this is a bad idea.
+# I'm just trying to keep the top level clean if it means sacrificing security.
+deno.lock
