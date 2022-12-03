@@ -13,51 +13,20 @@ something obvious.
 Is there a CLI tool that we're missing? Let's add it.
 
 1. Fork the repository
-2. Add the cli tool's metadata to `cli.json`.
-3. Add the cli tool's alias to `names.json`.
-4. Clean the json files by running `deno task clean`.
-5. Format the repository by running `deno fmt`.
+2. Run `deno task add`
+3. Make a PR!
 
 Let's go through a step-by-step example! Let's say I want to add
 [cookieDB](https://github.com/cookiedb/CookieDB) to the cli list.
 
-First I'd fork the repo. Then I'll add the metadata. I will set it as follows:
-
-```jsonc
-{
-  // ...
-  "cookieDB": {
-    "description": "A byte sized database for everyone",
-    "repository": "https://github.com/cookiedb/CookieDB"
-  }
-  // ...
-}
 ```
-
-Next, I'll add cookieDB to the names list. This contains aliases. In this case,
-cookieDB is run using the `cookie start` command. From this we can derive that
-the alias is `cookie`. If this was the first cli tool to exist using this name,
-add a new field!
-
-```jsonc
-{
-  // ...
-  "cookie": ["cookieDB"]
-  // ...
-}
+$ deno task add
+What is the name of the CLI tool you would like to add? cookieDB
+What are the alias(es) for this tool (if multiple, separate by spaces)? cookie
+What is a quick description of this tool? A byte sized db for everyone
+Is this tool built-in to any popular OS (y/n)? n
+What is the git repository for this tool? https://github.com/cookiedb/CookieDB
 ```
-
-If it's not, simply add it to the list that already exists.
-
-```jsonc
-{
-  // ...
-  "cookie": ["preexistingCookieRelatedThing", "cookieDB"]
-  // ...
-}
-```
-
-Now to finish it off, run our cleaning commands: `deno task clean && deno fmt`
 
 You're done!
 
