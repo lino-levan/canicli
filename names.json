@@ -1,4 +1,7 @@
 {
+  "add-gitignore": [
+    "add-gitignore"
+  ],
   "alias": [
     "alias"
   ],
@@ -35,11 +38,23 @@
   "bc": [
     "bc"
   ],
+  "bcal": [
+    "bcal"
+  ],
+  "beet": [
+    "beets"
+  ],
   "bg": [
     "bg"
   ],
+  "bible": [
+    "BibleApp"
+  ],
   "bind": [
     "bind"
+  ],
+  "bitwise": [
+    "bitwise"
   ],
   "break": [
     "break"
@@ -56,17 +71,26 @@
   "caller": [
     "caller"
   ],
+  "caniuse": [
+    "caniuse-cmd"
+  ],
   "case": [
     "case"
   ],
   "cat": [
     "cat"
   ],
+  "cataclysm-dda": [
+    "Cataclysm-DDA"
+  ],
   "cd": [
     "cd"
   ],
   "cfdisk": [
     "cfdisk"
+  ],
+  "cgasm": [
+    "cgasm"
   ],
   "chattr": [
     "chattr"
@@ -97,6 +121,9 @@
   ],
   "cmp": [
     "cmp"
+  ],
+  "cmus": [
+    "cmus"
   ],
   "comm": [
     "comm"
@@ -152,8 +179,17 @@
   "df": [
     "df"
   ],
+  "dframe": [
+    "deviceframe"
+  ],
+  "dialog": [
+    "dialog"
+  ],
   "diff": [
     "diff"
+  ],
+  "diff2html": [
+    "diff2html-cli"
   ],
   "diff3": [
     "diff3"
@@ -185,8 +221,14 @@
   "du": [
     "du"
   ],
+  "dzr": [
+    "dzr"
+  ],
   "echo": [
     "echo"
+  ],
+  "editly": [
+    "editly"
   ],
   "egrep": [
     "egrep"
@@ -194,11 +236,17 @@
   "eject": [
     "eject"
   ],
+  "emacs": [
+    "emacs"
+  ],
   "enable": [
     "enable"
   ],
   "env": [
     "env"
+  ],
+  "epr": [
+    "epr"
   ],
   "ethtool": [
     "ethtool"
@@ -220,6 +268,9 @@
   ],
   "expr": [
     "expr"
+  ],
+  "facebook-cli": [
+    "facebook-cli"
   ],
   "false": [
     "false"
@@ -251,11 +302,17 @@
   "fold": [
     "fold"
   ],
+  "football": [
+    "footballcli"
+  ],
   "for": [
     "for"
   ],
   "format": [
     "format"
+  ],
+  "foy": [
+    "foy"
   ],
   "free": [
     "free"
@@ -283,6 +340,9 @@
   ],
   "grep": [
     "grep"
+  ],
+  "grex": [
+    "grex"
   ],
   "groupadd": [
     "groupadd"
@@ -317,6 +377,9 @@
   "htop": [
     "htop"
   ],
+  "hx": [
+    "helix"
+  ],
   "iconv": [
     "iconv"
   ],
@@ -341,11 +404,29 @@
   "install": [
     "install"
   ],
+  "instantmusic": [
+    "Instant-Music-Downloader"
+  ],
+  "iola": [
+    "iola"
+  ],
   "iostat": [
     "iostat"
   ],
   "ip": [
     "ip"
+  ],
+  "iredis": [
+    "iredis"
+  ],
+  "irssi": [
+    "irssi"
+  ],
+  "is-up": [
+    "is-up-cli"
+  ],
+  "itunes": [
+    "itunes-remote"
   ],
   "jobs": [
     "jobs"
@@ -353,14 +434,29 @@
   "join": [
     "join"
   ],
+  "jq": [
+    "jq"
+  ],
+  "just": [
+    "just"
+  ],
+  "kak": [
+    "kakoune"
+  ],
   "kill": [
     "kill"
   ],
   "killall": [
     "killall"
   ],
+  "kirc": [
+    "kirc"
+  ],
   "klist": [
     "klist"
+  ],
+  "legit": [
+    "legit"
   ],
   "less": [
     "less"
@@ -373,6 +469,9 @@
   ],
   "ln": [
     "ln"
+  ],
+  "loadtest": [
+    "loadtest"
   ],
   "local": [
     "local"
@@ -431,6 +530,12 @@
   "mapfile": [
     "mapfile"
   ],
+  "medium": [
+    "medium-cli"
+  ],
+  "micro": [
+    "micro"
+  ],
   "mkdir": [
     "mkdir"
   ],
@@ -443,6 +548,9 @@
   "mkisofs": [
     "mkisofs"
   ],
+  "mklicense": [
+    "mklicense"
+  ],
   "mknod": [
     "mknod"
   ],
@@ -451,6 +559,12 @@
   ],
   "mmv": [
     "mmv"
+  ],
+  "mobicon": [
+    "mobicon-cli"
+  ],
+  "mobisplash": [
+    "mobisplash-cli"
   ],
   "more": [
     "more"
@@ -461,23 +575,50 @@
   "mount": [
     "mount"
   ],
+  "movie-cli": [
+    "movie"
+  ],
+  "moviemon": [
+    "moviemon"
+  ],
+  "mpd": [
+    "MPD"
+  ],
+  "mps-youtube": [
+    "mps-youtube"
+  ],
+  "mpv": [
+    "mpv"
+  ],
   "mtools": [
     "mtools"
   ],
   "mtr": [
     "mtr"
   ],
+  "musikcube": [
+    "musikcube"
+  ],
   "mv": [
     "mv"
   ],
+  "mycli": [
+    "mycli"
+  ],
   "nc": [
     "nc"
+  ],
+  "ncmpcpp": [
+    "ncmpcpp"
   ],
   "neofetch": [
     "neofetch"
   ],
   "netstat": [
     "netstat"
+  ],
+  "newsboat": [
+    "newsboat"
   ],
   "nft": [
     "nft"
@@ -503,11 +644,20 @@
   "nslookup": [
     "nslookup"
   ],
+  "nvim": [
+    "neovim"
+  ],
+  "o": [
+    "o"
+  ],
   "op": [
     "op"
   ],
   "open": [
     "open"
+  ],
+  "openssl": [
+    "openssl"
   ],
   "passwd": [
     "passwd"
@@ -521,8 +671,14 @@
   "perf": [
     "perf"
   ],
+  "pgcli": [
+    "pgcli"
+  ],
   "pgrep": [
     "pgrep"
+  ],
+  "pianobar": [
+    "pianobar"
   ],
   "ping": [
     "ping"
@@ -532,6 +688,9 @@
   ],
   "pnpm": [
     "pnpm"
+  ],
+  "pockyt": [
+    "pockyt"
   ],
   "popd": [
     "popd"
@@ -566,6 +725,9 @@
   "quotacheck": [
     "quotacheck"
   ],
+  "rainbowstream": [
+    "rainbowstream"
+  ],
   "ram": [
     "ram"
   ],
@@ -574,6 +736,9 @@
   ],
   "rcp": [
     "rcp"
+  ],
+  "reachable": [
+    "reachable"
   ],
   "read": [
     "read"
@@ -586,6 +751,9 @@
   ],
   "reboot": [
     "reboot"
+  ],
+  "rebound": [
+    "rebound"
   ],
   "remsync": [
     "remsync"
@@ -656,14 +824,26 @@
   "slocate": [
     "slocate"
   ],
+  "somafm": [
+    "somafm-cli"
+  ],
   "sort": [
     "sort"
   ],
   "source": [
     "source"
   ],
+  "speed_read": [
+    "speed_read"
+  ],
   "split": [
     "split"
+  ],
+  "spt": [
+    "spotify-tui"
+  ],
+  "sqlline": [
+    "sqlline"
   ],
   "ss": [
     "ss"
@@ -677,6 +857,12 @@
   "strace": [
     "strace"
   ],
+  "streamlink": [
+    "streamlink"
+  ],
+  "strip-css-comments": [
+    "strip-css-comments-cli"
+  ],
   "su": [
     "su"
   ],
@@ -686,8 +872,14 @@
   "sum": [
     "sum"
   ],
+  "surge": [
+    "surge"
+  ],
   "suspend": [
     "suspend"
+  ],
+  "swaglyrics": [
+    "Swaglyrics-For-Spotify"
   ],
   "sync": [
     "sync"
@@ -747,6 +939,9 @@
   "tty": [
     "tty"
   ],
+  "tuir": [
+    "tuir"
+  ],
   "type": [
     "type"
   ],
@@ -804,6 +999,9 @@
   "users": [
     "users"
   ],
+  "usql": [
+    "usql"
+  ],
   "uudecode": [
     "uudecode"
   ],
@@ -818,6 +1016,12 @@
   ],
   "vi": [
     "vi"
+  ],
+  "viewport-list": [
+    "viewport-list-cli"
+  ],
+  "vim": [
+    "vim"
   ],
   "vite": [
     "vite"
@@ -836,6 +1040,9 @@
   ],
   "wc": [
     "wc"
+  ],
+  "weechat": [
+    "weechat"
   ],
   "wget": [
     "wget"
@@ -872,6 +1079,9 @@
   ],
   "yes": [
     "yes"
+  ],
+  "youtube-dl": [
+    "youtube-dl"
   ],
   "yt-dlp": [
     "yt-dlp"
