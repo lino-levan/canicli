@@ -1,4 +1,28 @@
 {
+  "BibleApp": {
+    "description": "Bible.JS CLI client. Read the Holy Bible via the command line",
+    "repository": "https://github.com/BibleJS/BibleApp"
+  },
+  "Cataclysm-DDA": {
+    "description": "A turn-based survival game set in a post-apocalyptic world",
+    "repository": "https://github.com/CleverRaven/Cataclysm-DDA/"
+  },
+  "Instant-Music-Downloader": {
+    "description": "Downloads Music From The Web",
+    "repository": "https://github.com/yask123/Instant-Music-Downloader"
+  },
+  "MPD": {
+    "description": "Music Player Daemon",
+    "repository": "https://github.com/MusicPlayerDaemon/MPD"
+  },
+  "Swaglyrics-For-Spotify": {
+    "description": "Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.",
+    "repository": "https://github.com/SwagLyrics/SwagLyrics-For-Spotify"
+  },
+  "add-gitignore": {
+    "description": "An interactive CLI tool that adds a .gitignore to your projects",
+    "repository": "https://github.com/TejasQ/add-gitignore"
+  },
   "alias": {
     "description": "Create an alias",
     "builtIn": true
@@ -47,6 +71,14 @@
     "description": "Arbitrary precision calculator language",
     "builtIn": true
   },
+  "bcal": {
+    "description": "Bits, bytes and address calculator",
+    "repository": "https://github.com/jarun/bcal"
+  },
+  "beets": {
+    "description": "music library manager and MusicBrainz tagger",
+    "repository": "https://github.com/beetbox/beets"
+  },
   "bg": {
     "description": "Send to background",
     "builtIn": true
@@ -54,6 +86,10 @@
   "bind": {
     "description": "Set or display readline key and function bindings",
     "builtIn": true
+  },
+  "bitwise": {
+    "description": "Terminal based bit manipulator in ncurses",
+    "repository": "https://github.com/mellowcandle/bitwise"
   },
   "break": {
     "description": "Exit from a loop",
@@ -75,6 +111,10 @@
     "description": "Return the context of any active subroutine call",
     "builtIn": true
   },
+  "caniuse-cmd": {
+    "description": "Caniuse command line tool",
+    "repository": "https://github.com/sgentle/caniuse-cmd"
+  },
   "case": {
     "description": "Conditionally perform a command",
     "builtIn": true
@@ -90,6 +130,10 @@
   "cfdisk": {
     "description": "Partition table manipulator for Linux",
     "builtIn": true
+  },
+  "cgasm": {
+    "description": "We're insanely passionate about command line asm documentation in the cloud, and we're crushing it!",
+    "repository": "https://github.com/bnagy/cgasm"
   },
   "chattr": {
     "description": "Change file attributes on a Linux file system",
@@ -130,6 +174,10 @@
   "cmp": {
     "description": "Compare two files",
     "builtIn": true
+  },
+  "cmus": {
+    "description": "Small, fast and powerful console music player for Unix-like operating systems",
+    "repository": "https://github.com/cmus/cmus"
   },
   "comm": {
     "description": "Compare two sorted files line by line",
@@ -199,13 +247,25 @@
     "description": "The easiest, most secure JavaScript runtime",
     "repository": "https://github.com/denoland/deno"
   },
+  "deviceframe": {
+    "description": "Put device frames around your mobile/web/progressive app screenshots",
+    "repository": "https://github.com/c0bra/deviceframe"
+  },
   "df": {
     "description": "Display free disk space",
+    "builtIn": true
+  },
+  "dialog": {
+    "description": "display dialog boxes from shell scripts",
     "builtIn": true
   },
   "diff": {
     "description": "Display the differences between two files",
     "builtIn": true
+  },
+  "diff2html-cli": {
+    "description": "Pretty diff to html javascript cli ",
+    "repository": "https://github.com/rtfpessoa/diff2html-cli"
   },
   "diff3": {
     "description": "Show differences among three files",
@@ -247,9 +307,17 @@
     "description": "Estimate file space usage",
     "builtIn": true
   },
+  "dzr": {
+    "description": "Command Line deezer.com Player for Linux, BSD, Android, Windows",
+    "repository": "https://github.com/yne/dzr"
+  },
   "echo": {
     "description": "Display message on screen",
     "builtIn": true
+  },
+  "editly": {
+    "description": "Slick, declarative command line video editing & API",
+    "repository": "https://github.com/mifi/editly"
   },
   "egrep": {
     "description": "Search file(s) for lines that match an extended expression",
@@ -259,6 +327,10 @@
     "description": "Eject removable media",
     "builtIn": true
   },
+  "emacs": {
+    "description": "An extensible, customizable, free/libre text editor",
+    "repository": "https://git.savannah.gnu.org/git/emacs.git"
+  },
   "enable": {
     "description": "Enable and disable builtin shell commands",
     "builtIn": true
@@ -266,6 +338,10 @@
   "env": {
     "description": "Environment variables",
     "builtIn": true
+  },
+  "epr": {
+    "description": "CLI Epub Reader",
+    "repository": "https://github.com/wustho/epr"
   },
   "ethtool": {
     "description": "Ethernet card settings",
@@ -294,6 +370,10 @@
   "expr": {
     "description": "Evaluate expressions",
     "builtIn": true
+  },
+  "facebook-cli": {
+    "description": "Facebook command line client ",
+    "repository": "https://github.com/specious/facebook-cli"
   },
   "false": {
     "description": "Do nothing, unsuccessfully",
@@ -335,6 +415,10 @@
     "description": "Wrap text to fit a specified width",
     "builtIn": true
   },
+  "footballcli": {
+    "description": "Command line interface for Hackers who love football",
+    "repository": "https://github.com/ManrajGrover/football-cli"
+  },
   "for": {
     "description": "Expand words, and execute commands",
     "builtIn": true
@@ -342,6 +426,10 @@
   "format": {
     "description": "Format disks or tapes",
     "builtIn": true
+  },
+  "foy": {
+    "description": "A simple, light-weight, type-friendly and modern task runner for general purpose",
+    "repository": "https://github.com/zaaack/foy"
   },
   "free": {
     "description": "Display memory usage",
@@ -383,6 +471,10 @@
     "description": "Search file(s) for lines that match a given pattern",
     "builtIn": true
   },
+  "grex": {
+    "description": "A command-line tool and Rust library for generating regular expressions from user-provided test cases",
+    "repository": "https://github.com/pemistahl/grex"
+  },
   "groupadd": {
     "description": "Add a user security group",
     "builtIn": true
@@ -410,6 +502,10 @@
   "head": {
     "description": "Output the first part of file(s)",
     "builtIn": true
+  },
+  "helix": {
+    "description": "A post-modern modal text editor.",
+    "repository": "https://github.com/helix-editor/helix"
   },
   "help": {
     "description": "Display help for a built-in command",
@@ -459,6 +555,10 @@
     "description": "Copy files and set attributes",
     "builtIn": true
   },
+  "iola": {
+    "description": "Command-line socket client with REST API",
+    "repository": "https://github.com/pvarentsov/iola"
+  },
   "iostat": {
     "description": "Report CPU and i/o statistics",
     "builtIn": true
@@ -466,6 +566,22 @@
   "ip": {
     "description": "Routing, devices and tunnels",
     "builtIn": true
+  },
+  "iredis": {
+    "description": "A Terminal Client for Redis with AutoCompletion and Syntax Highlighting",
+    "repository": "https://github.com/laixintao/iredis"
+  },
+  "irssi": {
+    "description": "The client of the future",
+    "repository": "https://github.com/irssi/irssi"
+  },
+  "is-up-cli": {
+    "description": "Check whether a website is up or down",
+    "repository": "https://github.com/sindresorhus/is-up-cli"
+  },
+  "itunes-remote": {
+    "description": "Control iTunes via CLI",
+    "repository": "https://github.com/mischah/itunes-remote"
   },
   "jobs": {
     "description": "List active jobs",
@@ -475,6 +591,18 @@
     "description": "Join lines on a common field",
     "builtIn": true
   },
+  "jq": {
+    "description": "Command-line JSON processor",
+    "repository": "https://github.com/stedolan/jq"
+  },
+  "just": {
+    "description": "Just a command runner",
+    "repository": "https://github.com/casey/just"
+  },
+  "kakoune": {
+    "description": "mawww's experiment for a better code editor",
+    "repository": "https://github.com/mawww/kakoune"
+  },
   "kill": {
     "description": "Kill a process by specifying its PID",
     "builtIn": true
@@ -483,9 +611,17 @@
     "description": "Kill processes by name",
     "builtIn": true
   },
+  "kirc": {
+    "description": "A tiny IRC client written in POSIX C99",
+    "repository": "https://github.com/mcpcpc/kirc"
+  },
   "klist": {
     "description": "List cached Kerberos tickets",
     "builtIn": true
+  },
+  "legit": {
+    "description": "Add licenses to projects at the command line",
+    "repository": "https://github.com/captainsafia/legit"
   },
   "less": {
     "description": "Display output one screen at a time",
@@ -502,6 +638,10 @@
   "ln": {
     "description": "Create a symbolic link to a file",
     "builtIn": true
+  },
+  "loadtest": {
+    "description": "Runs a load test on the selected URL. Easy to extend minimally for your own ends.",
+    "repository": "https://github.com/alexfernandez/loadtest"
   },
   "local": {
     "description": "Create a function variable",
@@ -579,6 +719,14 @@
     "description": "Read lines from standard input into an indexed array variable",
     "builtIn": true
   },
+  "medium-cli": {
+    "description": "A CLI for Medium Stories.",
+    "repository": "https://github.com/djadmin/medium-cli"
+  },
+  "micro": {
+    "description": "A modern and intuitive terminal-based text editor",
+    "repository": "https://github.com/zyedidia/micro"
+  },
   "mkdir": {
     "description": "Create new folder(s)",
     "builtIn": true
@@ -595,6 +743,10 @@
     "description": "Create a hybrid ISO9660/JOLIET/HFS filesystem",
     "builtIn": true
   },
+  "mklicense": {
+    "description": "CLI tool for generating Licenses. Easily.",
+    "repository": "https://github.com/cezaraugusto/mklicense"
+  },
   "mknod": {
     "description": "Make block or character special files",
     "builtIn": true
@@ -606,6 +758,14 @@
   "mmv": {
     "description": "Mass Move and rename (files)",
     "builtIn": true
+  },
+  "mobicon-cli": {
+    "description": "Mobile icon generator",
+    "repository": "https://github.com/SamVerschueren/mobicon-cli"
+  },
+  "mobisplash-cli": {
+    "description": "Mobile app splash screen generator",
+    "repository": "https://github.com/SamVerschueren/mobisplash-cli"
   },
   "more": {
     "description": "Display output one screen at a time",
@@ -619,6 +779,22 @@
     "description": "Mount a file system",
     "builtIn": true
   },
+  "movie": {
+    "description": "A CLI for getting information about movies and comparing two movies",
+    "repository": "https://github.com/mayankchd/movie"
+  },
+  "moviemon": {
+    "description": "Everything about your movies within the command line",
+    "repository": "https://github.com/iCHAIT/moviemon"
+  },
+  "mps-youtube": {
+    "description": "Terminal based YouTube player and downloader",
+    "repository": "https://github.com/mps-youtube/mps-youtube"
+  },
+  "mpv": {
+    "description": "Command line video player",
+    "repository": "https://github.com/mpv-player/mpv"
+  },
   "mtools": {
     "description": "Manipulate MS-DOS files",
     "builtIn": true
@@ -627,21 +803,41 @@
     "description": "Network diagnostics (traceroute/ping)",
     "builtIn": true
   },
+  "musikcube": {
+    "description": "a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++",
+    "repository": "https://github.com/clangen/musikcube"
+  },
   "mv": {
     "description": "Move or rename files or directories",
     "builtIn": true
+  },
+  "mycli": {
+    "description": "A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting",
+    "repository": "https://github.com/dbcli/mycli"
   },
   "nc": {
     "description": "Netcat, read and write data across networks",
     "builtIn": true
   },
+  "ncmpcpp": {
+    "description": "Featureful ncurses based MPD client inspired by ncmpc",
+    "repository": "https://github.com/ncmpcpp/ncmpcpp"
+  },
   "neofetch": {
     "description": "A command-line system information tool written in bash 3.2+",
     "repository": "https://github.com/dylanaraps/neofetch"
   },
+  "neovim": {
+    "description": "Vim-fork focused on extensibility and usability",
+    "repository": "https://github.com/neovim/neovim"
+  },
   "netstat": {
     "description": "Networking connections/stats",
     "builtIn": true
+  },
+  "newsboat": {
+    "description": "An RSS/Atom feed reader for text terminals",
+    "repository": "https://github.com/newsboat/newsboat"
   },
   "nft": {
     "description": "nftables for packet filtering and classification",
@@ -675,6 +871,10 @@
     "description": "Query Internet name servers interactively",
     "builtIn": true
   },
+  "o": {
+    "description": "Configuration-free text editor and IDE limited to VT100",
+    "repository": "https://github.com/xyproto/o"
+  },
   "op": {
     "description": "Operator access",
     "builtIn": true
@@ -682,6 +882,10 @@
   "open": {
     "description": "Open a file in its default application",
     "builtIn": true
+  },
+  "openssl": {
+    "description": "TLS/SSL and crypto library",
+    "repository": "https://github.com/openssl/openssl"
   },
   "passwd": {
     "description": "Modify a user password",
@@ -699,9 +903,17 @@
     "description": "Performance analysis tools for Linux",
     "builtIn": true
   },
+  "pgcli": {
+    "description": "Postgres CLI with autocompletion and syntax highlighting",
+    "repository": "https://github.com/dbcli/pgcli"
+  },
   "pgrep": {
     "description": "List processes by name",
     "builtIn": true
+  },
+  "pianobar": {
+    "description": "Console-based pandora.com player",
+    "repository": "https://github.com/PromyLOPh/pianobar"
   },
   "ping": {
     "description": "Test a network connection",
@@ -714,6 +926,10 @@
   "pnpm": {
     "description": "Fast, disk space efficient package manager",
     "repository": "https://github.com/pnpm/pnpm"
+  },
+  "pockyt": {
+    "description": "Automate & manage your Pocket.com collection.",
+    "repository": "https://github.com/achembarpu/pockyt"
   },
   "popd": {
     "description": "Restore the previous value of the current directory",
@@ -759,6 +975,10 @@
     "description": "Scan a file system for disk usage",
     "builtIn": true
   },
+  "rainbowstream": {
+    "description": "A smart and nice Twitter client on terminal written in Python.",
+    "repository": "https://github.com/orakaro/rainbowstream"
+  },
   "ram": {
     "description": "ram disk device",
     "builtIn": true
@@ -770,6 +990,10 @@
   "rcp": {
     "description": "Copy files between two machines",
     "builtIn": true
+  },
+  "reachable": {
+    "description": "Reachable is a CLI tool to check if a domain is up",
+    "repository": "https://github.com/italolelis/reachable"
   },
   "read": {
     "description": "Read a line from standard input",
@@ -786,6 +1010,10 @@
   "reboot": {
     "description": "Reboot the system",
     "builtIn": true
+  },
+  "rebound": {
+    "description": "Command-line tool that instantly fetches Stack Overflow results when an exception is thrown",
+    "repository": "https://github.com/shobrook/rebound"
   },
   "remsync": {
     "description": "Synchronize remote files via email",
@@ -879,6 +1107,10 @@
     "description": "Find files",
     "builtIn": true
   },
+  "somafm-cli": {
+    "description": "Listen to SomaFM in your terminal via pure bash",
+    "repository": "https://github.com/rockymadden/somafm-cli"
+  },
   "sort": {
     "description": "Sort text files",
     "builtIn": true
@@ -887,9 +1119,21 @@
     "description": "Run commands from a file '.'",
     "builtIn": true
   },
+  "speed_read": {
+    "description": "A simple terminal-based open source Spritz-alike",
+    "repository": "https://github.com/sunsations/speed_read"
+  },
   "split": {
     "description": "Split a file into fixed-size pieces",
     "builtIn": true
+  },
+  "spotify-tui": {
+    "description": "Spotify for the terminal written in Rust",
+    "repository": "https://github.com/Rigellute/spotify-tui"
+  },
+  "sqlline": {
+    "description": "Shell for issuing SQL to relational databases via JDBC",
+    "repository": "https://github.com/julianhyde/sqlline"
   },
   "ss": {
     "description": "Socket Statistics",
@@ -907,6 +1151,14 @@
     "description": "Trace system calls and signals",
     "builtIn": true
   },
+  "streamlink": {
+    "description": "Streamlink is a CLI utility which pipes video streams from various services into a video player",
+    "repository": "https://github.com/streamlink/streamlink"
+  },
+  "strip-css-comments-cli": {
+    "description": "Strip comments from CSS",
+    "repository": "https://github.com/sindresorhus/strip-css-comments-cli"
+  },
   "su": {
     "description": "Substitute user identity",
     "builtIn": true
@@ -918,6 +1170,10 @@
   "sum": {
     "description": "Print a checksum for a file",
     "builtIn": true
+  },
+  "surge": {
+    "description": "CLI for the surge.sh CDN",
+    "repository": "https://github.com/sintaxi/surge"
   },
   "suspend": {
     "description": "Suspend execution of this shell",
@@ -999,6 +1255,10 @@
     "description": "Print filename of terminal on stdin",
     "builtIn": true
   },
+  "tuir": {
+    "description": "Browse Reddit from your terminal",
+    "repository": "https://gitlab.com/ajak/tuir"
+  },
   "type": {
     "description": "Describe a command",
     "builtIn": true
@@ -1075,6 +1335,10 @@
     "description": "List users currently logged in",
     "builtIn": true
   },
+  "usql": {
+    "description": "Universal command-line interface for SQL databases",
+    "repository": "https://github.com/xo/usql"
+  },
   "uudecode": {
     "description": "Decode a file created by uuencode",
     "builtIn": true
@@ -1093,6 +1357,14 @@
   },
   "vi": {
     "description": "Text Editor",
+    "builtIn": true
+  },
+  "viewport-list-cli": {
+    "description": "Return a list of devices and their viewports",
+    "repository": "https://github.com/kevva/viewport-list-cli"
+  },
+  "vim": {
+    "description": "the ubiquitous text editor",
     "builtIn": true
   },
   "vite": {
@@ -1118,6 +1390,10 @@
   "wc": {
     "description": "Print byte, word, and line counts",
     "builtIn": true
+  },
+  "weechat": {
+    "description": "The extensible chat client",
+    "repository": "https://github.com/weechat/weechat"
   },
   "wget": {
     "description": "Retrieve web pages or files via HTTP, HTTPS or FTP",
@@ -1166,6 +1442,10 @@
   "yes": {
     "description": "Print a string until interrupted",
     "builtIn": true
+  },
+  "youtube-dl": {
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "repository": "https://github.com/ytdl-org/youtube-dl"
   },
   "yt-dlp": {
     "description": "A youtube-dl fork with additional features and fixes",
